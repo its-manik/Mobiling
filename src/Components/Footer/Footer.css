@@ -1,0 +1,92 @@
+.footer{
+  background-color:  #021E35;
+  
+}
+.footer h1{
+    font-family: Lexend;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FCFCFD;
+}
+.footer li{
+    font-family: Lexend;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:  #FCFCFD;
+    list-style: none;
+}
+.footer p{
+  font-family: Lexend;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color:  #FCFCFD;
+  list-style: none;
+}
+
+
+
+.footer h2{
+
+font-family: Lexend;
+font-size: 12px;
+font-weight: 300;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: left;
+color: #FCFCFD;
+;
+
+}
+hr{
+  
+  height: 2px;
+  background-color:#FCFCFD;
+
+}
+.footer .footer-lower ul{
+  font-family: Lexend;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.footer .footer-lower li{
+
+  font-family: Lexend;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+  
+}
+
+.custom-padding{
+  padding-left: 2px;
+
+} 
+.custom-padding{
+  padding-left: 170px;
+
+} 
+@media (max-width: 996px) {
+  .custom-padding{
+    padding-left: 0px;
+  
+  } 
+
+
+}
+
+
+
